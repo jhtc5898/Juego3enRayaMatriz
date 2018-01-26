@@ -18,6 +18,7 @@ public class Juego3enRaya {
      */
     public static void main(String[] args) 
     {
+        System.out.println("Juego");
         Scanner Teclado = new Scanner (System.in);
         String Mat [][] = new String [3][3];
         int cont = 1;
